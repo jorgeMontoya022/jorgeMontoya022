@@ -50,6 +50,17 @@ When I’m not coding, you’ll find me:
 
 ---
 
+## Github Stats &nbsp;📊
+<br>
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgeMontoya022&show_icons=true&theme=github_dark">
+</p>
+<hr>
+<br>
+
+
+
+
 ### 📫 Connect with me  
 <a href="https://www.instagram.com/jorge_montoya_6421/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
