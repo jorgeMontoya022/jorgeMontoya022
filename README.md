@@ -38,14 +38,6 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
 </span>
 
-## 🚀 Featured Projects
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=virtual-wallet&theme=tokyonight)](https://github.com/diegnghtmr/virtual-wallet)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=banking-system-project&theme=tokyonight)](https://github.com/diegnghtmr/banking-system-project)
-
-</div>
-
 
 
 ---
@@ -72,6 +64,14 @@ When I’m not coding, you’ll find me:
 </p>
 <hr>
 <br>
+
+## 🚀 Featured Projects
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=virtual-wallet&theme=tokyonight)](https://github.com/diegnghtmr/virtual-wallet)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=banking-system-project&theme=tokyonight)](https://github.com/diegnghtmr/banking-system-project)
+
+</div>
 
 
 ### 📫 Connect with me  
