@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white">
 </span>
 
+
+
 <h4>IDEs</h4>
 <span>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
@@ -31,7 +33,20 @@
 <h4>Technology</h4>
 <span>
   <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Excalidraw-000000?style=for-the-badge&logo=excalidraw&logoColor=white">
+  <img src="https://img.shields.io/badge/Draw.io-FF9900?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
 </span>
+
+## 🚀 Featured Projects
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=virtual-wallet&theme=tokyonight)](https://github.com/diegnghtmr/virtual-wallet)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=banking-system-project&theme=tokyonight)](https://github.com/diegnghtmr/banking-system-project)
+
+</div>
+
+
 
 ---
 
@@ -57,8 +72,6 @@ When I’m not coding, you’ll find me:
 </p>
 <hr>
 <br>
-
-
 
 
 ### 📫 Connect with me  
