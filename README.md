@@ -75,7 +75,6 @@ I’m a Systems Engineering student at the University of Quindío with a strong 
 <hr>
 <br>
 
----
 ### 📫 Connect with me  
 <a href="https://www.instagram.com/jorge_montoya_6421/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -86,4 +85,4 @@ I’m a Systems Engineering student at the University of Quindío with a strong 
 <a href="mailto:jorgetoro708@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
----
+
