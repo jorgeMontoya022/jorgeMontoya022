@@ -51,13 +51,7 @@ I’m a Systems Engineering student at the University of Quindío with a strong 
 
 ---
 
-## Github Stats &nbsp;📊
-<br>
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgeMontoya022&show_icons=true&theme=algolia">
-</p>
-<hr>
-<br>
+
 
 ## 🚀 Featured Projects
 <div align="center">
@@ -68,8 +62,18 @@ I’m a Systems Engineering student at the University of Quindío with a strong 
 
 </div>
 
+---
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeMontoya022&theme=algolia" alt="jorgeMontoya022"  /></p>
+
+---
+## Github Stats &nbsp;📊
+<br>
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgeMontoya022&show_icons=true&theme=algolia">
+</p>
+<hr>
+<br>
 
 ---
 ### 📫 Connect with me  
