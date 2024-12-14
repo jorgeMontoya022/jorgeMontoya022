@@ -39,6 +39,8 @@ I’m a Systems Engineering student at the University of Quindío with a strong 
 <h4>Technology</h4>
 <span>
   <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-%232C2D3C.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Excalidraw-000000?style=for-the-badge&logo=excalidraw&logoColor=white">
   <img src="https://img.shields.io/badge/Draw.io-FF9900?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
