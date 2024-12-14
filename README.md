@@ -8,7 +8,9 @@
 ---
 
 ## 🌱 About Me  
-I’m a Systems Engineering student at the University of Quindío with a strong passion for technology 💻, programming 👨‍💻, and design 🎨. Currently, I’m deepening my knowledge in advanced programming 🧑‍💻 and exploring new design tools 🛠️ to improve my creative and technical skills. I’m always open to collaborating on both academic and personal tech-related projects 🤝, as I believe teamwork and sharing ideas are key to growth in the tech world 🌍. Outside of coding, I enjoy playing musical instruments 🎹🥁, particularly the piano and drums, which help me relax and find inspiration 🎶. I also love exploring new experiences outdoors 🌳, whether it’s traveling ✈️, hiking 🥾, or simply enjoying nature 🌄. I'm excited to keep learning and growing as a developer while contributing to meaningful projects and making connections with other passionate individuals in the tech community 💬.
+I’m a Systems Engineering student at the University of Quindío with a strong passion for technology 💻, programming 👨‍💻, and design 🎨. Currently, I’m deepening my knowledge in advanced programming 🧑‍💻, learning CSS 🎨, and exploring new design tools 🛠️ to improve my creative and technical skills. I’m always open to collaborating on both academic and personal tech-related projects 🤝, as I believe teamwork and sharing ideas are key to growth in the tech world 🌍. Outside of coding, I enjoy playing musical instruments 🎹🥁, particularly the piano and drums, which help me relax and find inspiration 🎶. I also love exploring new experiences outdoors 🌳, whether it’s traveling ✈️, hiking 🥾, or simply enjoying nature 🌄. I'm excited to keep learning and growing as a developer while contributing to meaningful projects and making connections with other passionate individuals in the tech community 💬.
+
+
 
 ---
 
