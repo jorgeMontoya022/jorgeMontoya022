@@ -50,7 +50,7 @@ I’m a Systems Engineering student at the University of Quindío with a strong 
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgeMontoya022&show_icons=true&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgeMontoya022&show_icons=true&theme=algolia">
 </p>
 <hr>
 <br>
@@ -58,12 +58,15 @@ I’m a Systems Engineering student at the University of Quindío with a strong 
 ## 🚀 Featured Projects
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=virtual-wallet&theme=tokyonight)](https://github.com/diegnghtmr/virtual-wallet)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=banking-system-project&theme=tokyonight)](https://github.com/diegnghtmr/banking-system-project)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=virtual-wallet&theme=algolia)](https://github.com/diegnghtmr/virtual-wallet)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=banking-system-project&theme=algolia)](https://github.com/diegnghtmr/banking-system-project)
 
 </div>
 
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeMontoya022&theme=algolia" alt="jorgeMontoya022"  /></p>
 
+---
 ### 📫 Connect with me  
 <a href="https://www.instagram.com/jorge_montoya_6421/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -74,3 +77,4 @@ I’m a Systems Engineering student at the University of Quindío with a strong 
 <a href="mailto:jorgetoro708@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+---
