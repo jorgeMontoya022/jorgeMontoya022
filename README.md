@@ -59,7 +59,7 @@ I’m a Systems Engineering student at the University of Quindío with a strong 
 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=virtual-wallet&theme=algolia)](https://github.com/diegnghtmr/virtual-wallet)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=banking-system-project&theme=algolia)](https://github.com/diegnghtmr/banking-system-project)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=jorgeMontoya022&repo=Barber-a_proyecto1_pr3&theme=algolia)](https://github.com/jorgeMontoya022/Barber-a_proyecto1_pr3)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=jorgeMontoya022&repo=Student-Management-System&theme=algolia)](https://github.com/jorgeMontoya022/Student-Management-System)
 
 </div>
 
