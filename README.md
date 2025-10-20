@@ -91,7 +91,7 @@ My approach to software development revolves around these core principles:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=virtual-wallet&theme=github_dark&hide_border=true" width="400">
   </a>
   <a href="https://github.com/jorgeMontoya022/accommodation-management.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeMontoya022&repo=Student-Management-System&theme=github_dark&hide_border=true" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgeMontoya022&repo=accommodation-management&theme=github_dark&hide_border=true" width="400">
   </a>
 </div>
 
